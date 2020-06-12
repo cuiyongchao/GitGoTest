@@ -15,4 +15,5 @@ func main() {
 	fmt.Println("7")
 	fmt.Println("8")
 	fmt.Println("9")
+	fmt.Println("10")
 }
